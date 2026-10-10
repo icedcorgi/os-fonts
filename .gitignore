@@ -1,7 +1,0 @@
-temp/
-__pycache__/
-*.kate-swp
-*.old
-test/
-_package/
-dist/
